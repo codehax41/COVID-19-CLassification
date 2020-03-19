@@ -7,7 +7,7 @@ This project help you detect covid19 infected or not.
 - Train a CNN to automatically detect COVID-19 in X-ray images via the dataset we created
 - Evaluate the results from an educational perspective
 
-
+Link to Download Pretrained model - 
 
 Disclaimer :-
 This is only for education purpose only.
